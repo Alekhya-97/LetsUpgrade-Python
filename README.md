@@ -1,2 +1,2 @@
 # LetsUpgrade-Python
-Assignment Day 2
+Assignment Day 4 is armstrong number
